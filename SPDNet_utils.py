@@ -160,3 +160,5 @@ def cal_retraction(X, rU, t):
     Y = np.matmul(Q, sR)
 
     return Y
+if __name__ == '__main__':
+    print('hello world')
